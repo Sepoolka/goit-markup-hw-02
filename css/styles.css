@@ -65,33 +65,105 @@ a {
     color: #F4F4FD;
 }
 
-.section-one {
+.section-solutions {
     background-color: #2E2F42;
 }
 
-.header-one {
+.header-solutions {
         font-weight: 700;
         font-size: 56px;
-        line-height: 60px;
+        line-height: 3.75;
         letter-spacing: 2%;
         text-align: center;
         color: #FFFFFF;
 }
 
-.button-one {
+.button-solutions {
     width: 169;
     height: 56;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 4%;
     vertical-align: middle;
     background-color: #4D5AE5;
     color: #FFFFFF;
 }
 
-.button-one:hover,
-.button-one:focus {
+.button-solutions:hover,
+.button-solutions:focus {
     background-color: #404BBF;
         color: #FFFFFF;
+}
+
+.features-strategy {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+}
+
+.features-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #434455;
+}
+
+.header-team {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 2.5;
+        letter-spacing: 2%;
+        text-align: center;
+        color: #2E2F42;
+}
+
+.section-team {
+    background-color: #F4F4FD;
+}
+
+.team-fio {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        text-align: center;
+        color: #2E2F42;
+}
+
+.team-work {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        text-align: center;
+        color: #2E2F42;
+}
+
+.team-item {
+    background-color: #FFFFFF;
+}
+
+.header-port {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 2.5;
+        letter-spacing: 2%;
+        text-align: center;
+        color: #2E2F42;
+}
+
+.port-desk {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #2E2F42;
+}
+
+.port-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        color: #434455;
 }
