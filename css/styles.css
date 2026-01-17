@@ -64,3 +64,34 @@ a {
 .footer-text {
     color: #F4F4FD;
 }
+
+.section-one {
+    background-color: #2E2F42;
+}
+
+.header-one {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 60px;
+        letter-spacing: 2%;
+        text-align: center;
+        color: #FFFFFF;
+}
+
+.button-one {
+    width: 169;
+    height: 56;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    vertical-align: middle;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.button-one:hover,
+.button-one:focus {
+    background-color: #404BBF;
+        color: #FFFFFF;
+}
